@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;361bea02546717124258e471c24e566a2f6c3996068c47eb9cb72e4c7a30e246;C:/Users/azmat/TransistorSimulator/src/app/shared/components/truth-table/truth-table.component.ts"],
+  "sourcesContent": ["\n    .tt-wrap {\n      overflow-x: auto;\n      border-radius: var(--radius);\n      border: 1px solid var(--border-subtle);\n    }\n    .truth-table { width: 100%; }\n    .out-col { color: var(--accent) !important; }\n    .out-cell { font-weight: 700; }\n    tr.active td { background: var(--accent-dim) !important; }\n  "],
+  "mappings": ";AACI,CAAC;AACC,cAAY;AACZ,iBAAe,IAAI;AACnB,UAAQ,IAAI,MAAM,IAAI;AACxB;AACA,CAAC;AAAc,SAAO;AAAM;AAC5B,CAAC;AAAU,SAAO,IAAI;AAAsB;AAC5C,CAAC;AAAW,eAAa;AAAK;AAC9B,EAAE,CAAC,OAAO;AAAK,cAAY,IAAI;AAA0B;",
+  "names": []
+}

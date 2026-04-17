@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx ng:*)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(taskkill /F /IM node.exe)",
+      "Bash(cmd /c \"taskkill /F /IM node.exe\")",
+      "Bash(cmd /c \"taskkill /F /IM node.exe 2>&1\")",
+      "Bash(powershell -Command \"Get-Process node -ErrorAction SilentlyContinue | Stop-Process -Force; Remove-Item -Recurse -Force 'C:\\\\Users\\\\azmat\\\\TransistorSimulator\\\\.angular' -ErrorAction SilentlyContinue; Write-Host 'Cache cleared'\")"
+    ]
+  }
+}
