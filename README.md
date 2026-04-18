@@ -4,6 +4,8 @@ An interactive educational web app that visually explains how computers add numb
 
 Built with **Angular 17** using standalone components and Signals.
 
+🔗 **Live Demo: https://iamsome1.github.io/TransistorSimulator/**
+
 ---
 
 ## Quick Start
