@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["angular:styles/component:css;65b8c3ad37ff534464bf5de9175ea9a0af37add042324d242861c02150d7433d;C:/Users/azmat/TransistorSimulator/src/app/shared/components/gate-symbol/gate-symbol.component.ts"],
-  "sourcesContent": ["\n    .gate-svg { display: block; overflow: visible; }\n  "],
-  "mappings": ";AACI,CAAC;AAAW,WAAS;AAAO,YAAU;AAAS;",
-  "names": []
-}
